@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication_For_TDD", "WindowsFormsApplication_For_TDD\WindowsFormsApplication_For_TDD.csproj", "{55D0B933-9B5A-4513-BB20-7DA35CC6D096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FE8C82E9-5212-4381-85DC-FAD6F57364D2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://akira345.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WindowsFormsApplication_For_TDD\\WindowsFormsApplication_For_TDD.csproj
+		SccProjectName1 = WindowsFormsApplication_For_TDD
+		SccLocalPath1 = WindowsFormsApplication_For_TDD
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D0B933-9B5A-4513-BB20-7DA35CC6D096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D0B933-9B5A-4513-BB20-7DA35CC6D096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D0B933-9B5A-4513-BB20-7DA35CC6D096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D0B933-9B5A-4513-BB20-7DA35CC6D096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8C82E9-5212-4381-85DC-FAD6F57364D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8C82E9-5212-4381-85DC-FAD6F57364D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8C82E9-5212-4381-85DC-FAD6F57364D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8C82E9-5212-4381-85DC-FAD6F57364D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
